@@ -34,7 +34,7 @@
                     <div class="container-fluid">
                     
                         <h2 class="section-title font-alt mb-70 mb-sm-40">
-                            Extraordinary Photographer
+                            HOLA MUNDO
                         </h2>
                         
                         <div class="row">
