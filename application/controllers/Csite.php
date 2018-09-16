@@ -85,10 +85,5 @@ class Csite extends CI_Controller {
 		
 	}
 
-	public function funcionAntonio()
-	{
-		return false;
-	}
-
 }
 ?>
