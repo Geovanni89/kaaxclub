@@ -32,7 +32,10 @@ class Csite extends CI_Controller {
 
 	public function funcionamiento()
 	{
-		
+		$data['css'] = $this->load->view('css', '', true);
+		$data['script'] = $this->load->view('script', '', true);
+		$data['menuDinamico'] = $this->load->view('menu', ['paginaActual'=>'funcionamiento'] ,true);
+		$this->load->view('funcionamiento', $data);
 	}
 
 	public function comofunciona()
