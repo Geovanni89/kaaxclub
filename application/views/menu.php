@@ -3,7 +3,7 @@
 
         <div class="nav-logo-wrap local-scroll">
             <a href="mp-index.html" class="logo">
-                <img src="<?=base_url();?>images/empresa/logo.png" alt="" />
+                <img src="<?=base_url();?>images/kaaxclub/logo_kaax.png" alt="" />
             </a>
         </div>
 

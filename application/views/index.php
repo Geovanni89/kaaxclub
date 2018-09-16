@@ -20,9 +20,9 @@
         
         <div class="page" id="top">
             
-            <div class="top-bar ">
+            <div class="top-bar bga5">
                 <div class="full-wrapper clearfix" align="center" style="padding: 10px;">
-                   <img src="<?=base_url();?>images/kaaxclub/logo_kaax.png" width="140">
+                   <img src="<?=base_url();?>images/kaaxclub/logowhite.png" width="140">
                 </div>
             </div>
             
@@ -33,25 +33,21 @@
                     
                     <div class="container-fluid">
                     
-                        <h2 class="section-title font-alt mb-70 mb-sm-40">
-                            HOLA MUNDO 5
+                        <h2 class="section-title font-alt mb-70 mb-sm-40 wow fadeIn" data-wow-delay="0.1s" data-wow-duration="2s">
+                            BIENVENIDO
                         </h2>
                         
                         <div class="row">
                             
-                            <div class="col-sm-5 col-sm-offset-1">
+                            <div class="col-sm-5 col-sm-offset-1 wow fadeIn" data-wow-delay="0.1s" data-wow-duration="2s">
                                 <div class="section-text mb-70 mb-xs-40">
-                                    <span class="dropcap font-alt">M</span>arius&nbsp;auctor ex&nbsp;id&nbsp;urna faucibus porttitor In&nbsp;maximus ligula semper 
-                                    metus pellentesque mattis.Maecenas volutpat, diam enim sagittis quam, id&nbsp;porta quam.
-                                    Sed id&nbsp;dolor consectetur fermentum nibh volutpat, accumsan purus.
+                                    <span class="dropcap font-alt">l</span>orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                                 </div>
                             </div>
                             
-                            <div class="col-sm-5">
+                            <div class="col-sm-5 wow fadeIn" data-wow-delay="0.1s" data-wow-duration="2s">
                                 <div class="section-text mb-70 mb-xs-40">
-                                    <span class="dropcap font-alt">P</span>hasellus consectetur vel nunc vitae tempus. Maecenas commodo ipsum non est consequat euismod. 
-                                    Aenean sit amet urna ac velit dapibus ullamcorper at ac ligula. Duis sed laoreet leo. 
-                                    Morbi ac semper lorem ipsum tortor. 
+                                    <span class="dropcap font-alt">l</span>orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                                 </div>
                             </div>
                             
@@ -76,7 +72,7 @@
                     <div class="container">
                         <div class="row multi-columns-row alt-features-grid">
                         
-                            <div class="col-sm-6 col-md-4 col-lg-4">
+                            <div class="col-sm-6 col-md-4 col-lg-4 wow fadeInUp" data-wow-duration="1s">
                                 <div class="alt-features-item align-center">
                                     <div class="mb-10">
                                         <img src="<?=base_url();?>images/kaaxclub/feature-1.png" width="217" height="163" alt="" />
@@ -93,7 +89,7 @@
                                 </div>
                             </div>
                             
-                            <div class="col-sm-6 col-md-4 col-lg-4">
+                            <div class="col-sm-6 col-md-4 col-lg-4 wow fadeInUp" data-wow-duration="1.5s">
                                 <div class="alt-features-item align-center">
                                     <div class="mb-10">
                                         <img src="<?=base_url();?>images/kaaxclub/feature-2.png" width="217" height="163" alt="" />
@@ -110,7 +106,7 @@
                                 </div>
                             </div>
                             
-                            <div class="col-sm-6 col-md-4 col-lg-4">
+                            <div class="col-sm-6 col-md-4 col-lg-4 wow fadeInUp" data-wow-duration="2s">
                                 <div class="alt-features-item align-center">
                                     <div class="mb-10">
                                         <img src="<?=base_url();?>images/kaaxclub/feature-3.png" width="217" height="163" alt="" />
